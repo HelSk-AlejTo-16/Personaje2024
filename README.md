@@ -28,14 +28,39 @@ Corretin tendrá 2 servomotores con los cuales va a simular que esta corriendo. 
 |Wokwi|Sin versión|
 
 ## Dibujo del personaje
-Imagen hecho a mano o software
+![Imagen de WhatsApp 2024-09-27 a las 21 41 50_117383a7](https://github.com/user-attachments/assets/aa808542-9380-4c7a-ade6-2600ba1c65f4)
+
 
 ## Enlaces de la simulación en Wokwi
+###Corretin el Reno
+https://wokwi.com/projects/409968168001987585
+
+###Instrumento de evaluación.
+https://wokwi.com/projects/410152821471045633
+
 
 ## Videos
-
+https://youtu.be/g2UZY9AUyr0
 ## Imagen de la captura de pantalla de los examenes de Cisco C
 
 
 
-####
+##Examenes de C essentials
+###1er Modulo
+![imagen](https://github.com/user-attachments/assets/571201d8-96cd-4225-b7d3-f0e8fc446063)
+###2do Modulo
+![imagen](https://github.com/user-attachments/assets/bff22601-50d4-413f-b5dd-c0425e7f679a)
+###3cer Modulo
+![imagen](https://github.com/user-attachments/assets/02716e9f-d931-43ba-b6ae-2e46a5c5fc08)
+###Cuarto Modulo
+![imagen](https://github.com/user-attachments/assets/9cece66f-2e75-4341-a65f-87486e300add)
+###Quinto Modulo
+![imagen](https://github.com/user-attachments/assets/d6cd1225-45e9-440e-8f3f-e0e678674463)
+###Examen final
+![imagen](https://github.com/user-attachments/assets/8f7c068f-df43-44c5-8d5c-cb0982c10c06)
+
+
+
+
+
+
